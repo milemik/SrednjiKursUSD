@@ -1,5 +1,10 @@
 # Average dollar exchange rate in Serbia
 
+## About
+
+This small script is meant to help people in serbia to more easily calculate incomes based on 
+average exchange rete in Serbia. Script will give you current AVG USD rate and allows you to put 
+value in USD and it will convert it to RSD value.
 
 ## Requirements
 
